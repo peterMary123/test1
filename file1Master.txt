@@ -1,8 +1,1 @@
-master line added THIS>asdfzzzzz
-zzzzzzzzzzzzzzzz
-master line added THIS>
-this is for branch111111
-
-Creating branch1 again...............aaaa
-
-changes on master
+Starting over
